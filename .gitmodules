@@ -1,0 +1,3 @@
+[submodule "codepan"]
+	path = codepan
+	url = git@github.com:linzichao/codepan.git
