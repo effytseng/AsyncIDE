@@ -10,12 +10,12 @@ Quickstart
 
 2. Install necessary module
 ```
- $ npm install
+ $ yarn
 ```
 
 3. Run server
 ```
- $ node app.js
+ $ yarn dev
 ```
 
 ### Run codepan server
@@ -24,7 +24,7 @@ Quickstart
 
 2. Install necessary module
 ```
- $ yarn install
+ $ yarn
 ```
 
 3. Run server
